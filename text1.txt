@@ -1,9 +1,44 @@
 es un archivo de prueba 
 primer modificación del archivo
 
+<<<<<<< HEAD
 otra modificacióngit
 este es otro cambio que hago
 cuarto cambio
 cambio final
 agregar información para fusionar 
 git hub y git bash data science
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+otra modificación
+git reset
+
+ejemplo para hacer brach
+ejemplo de rama
+
+
+ejemplo de brach
+otra rama
+fcusión de archivos
+
+
+
+>>>>>>> prueba2

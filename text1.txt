@@ -2,3 +2,6 @@ es un archivo de prueba
 primer modificación del archivo
 
 otra modificación
+git reset
+
+

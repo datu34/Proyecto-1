@@ -4,4 +4,6 @@ primer modificación del archivo
 otra modificación
 git reset
 
+ejemplo para hacer brach
+
 
